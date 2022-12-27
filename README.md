@@ -1,5 +1,5 @@
 # chatGPT_server "\n"
-add OPENAI_API_KEY= your open ai api keys in .env file
+add OPENAI_API_KEY= your open ai api keys in .env file "\n"
 request on http://localhost:5000/ with post request
 Body- 
 {
